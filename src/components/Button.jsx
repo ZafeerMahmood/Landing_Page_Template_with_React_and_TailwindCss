@@ -1,6 +1,6 @@
 
-export const Button = () => {
+export const Button = ({styles , text}) => {
   return (
-    <div>Button</div>
+    <button type= 'button' className={` ${styles} py-4 px-6 bg-blue-gradient font-poppins font-medium text-[18px] text-primary outline-none`}>{text}</button>
   )
 }

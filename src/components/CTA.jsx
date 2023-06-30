@@ -1,5 +1,5 @@
 
-export const CTA = () => {
+export const Cta = () => {
   return (
     <div>CTA</div>
   )

@@ -48,6 +48,7 @@ export default {
 };
 ```
 # Screenshots 
+![screenshot](https://github.com/ZafeerMahmood/React-Ui-website-with-Tailwind/blob/main/screenshots/Group%201%20(1).jpg)
 
 
 

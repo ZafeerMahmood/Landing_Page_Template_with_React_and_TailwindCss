@@ -13,7 +13,7 @@ export const Hero = () => {
           </p>
         </div>
         <div className="flex flex-row justify-between items-center w-full">
-          <h1 className="flex-1 font-poppins ss:leading-10 leading-9 text-white font-semibold ss:text-7xl text-5xl">
+          <h1 className="flex-1 font-poppins ss:leading-[100.8px] leading-[75px] text-white font-semibold ss:text-7xl text-5xl">
             The Next <br className="sm:block hidden" />
             <span className="text-gradient"> Generation</span>{" "}
           </h1>
@@ -21,8 +21,7 @@ export const Hero = () => {
             <GetStarted />
           </div>
         </div>
-        <h1 className="font-poppins w-full ss:leading-10 leading-9 text-white font-semibold ss:text-7xl text-5xl">
-          {" "}
+        <h1 className="font-poppins w-full ss:leading-[100.8px] leading-[75px] text-white font-semibold ss:text-7xl text-5xl">
           Payment Method.
         </h1>
         <p className={`${style.paragraph} max-w-md mt-5`}>
